@@ -1,6 +1,6 @@
 # FlexLayout
 flexlayout website
-
+预览： http://htmlpreview.github.io/?https://github.com/whhlulu/ResponsiveWeb/blob/master/src/index.html
 ##响应式布局，先看效果
 ###大屏效果：>50rem
 ![大图](https://raw.githubusercontent.com/wu0792/FlexLayout/master/doc/design/l.png)
